@@ -1,0 +1,35 @@
+{
+  "Comment_1": "Items",
+  "item.mcpaintball.pistol": "Paintball Pistol",
+  "item.mcpaintball.rifle": "Paintball Rifle",
+  "item.mcpaintball.shotgun": "Paintball Shotgun",
+  "item.mcpaintball.sniper": "Paintball Sniper",
+  "item.mcpaintball.bazooka": "Paintball Bazooka",
+  "item.mcpaintball.remote": "C4 Remote",
+  "item.mcpaintball.debug_wand": "Debugging Wand",
+
+  "Comment_2": "Entities",
+  "entity.mcpaintball.red_paintball": "Red Paintball",
+  "entity.mcpaintball.green_paintball": "Green Paintball",
+  "entity.mcpaintball.blue_paintball": "Blue Paintball",
+  "entity.mcpaintball.cyan_paintball": "Cyan Paintball",
+  "entity.mcpaintball.magenta_paintball": "Magenta Paintball",
+  "entity.mcpaintball.lime_paintball": "Lime Paintball",
+  "entity.mcpaintball.light_blue_paintball": "Light Blue Paintball",
+  "entity.mcpaintball.pink_paintball": "Pink Paintball",
+  "entity.mcpaintball.purple_paintball": "Purple Paintball",
+
+  "Comment_3": "Command Responses",
+  "mcpaintball.command.response.team.set": "Your team has been set to %s",
+  "mcpaintball.command.response.class.set": "Your class has been set to %s",
+
+  "Comment_4": "Subtitles",
+  "subtitle.mcpaintball.shot": "Shot Fired",
+  "subtitle.mcpaintball.bazooka": "Bazooka Fired",
+  "subtitle.mcpaintball.hit": "Player Hit",
+  "subtitle.mcpaintball.splat": "Paintball Hit Block",
+  "subtitle.mcpaintball.c4_added": "Armed C4",
+  "subtitle.mcpaintball.c4_removed": "Disarmed C4",
+  "subtitle.mcpaintball.c4_explode": "C4 Detonated",
+  "subtitle.mcpaintball.grenade": "Grenade Thrown"
+}
