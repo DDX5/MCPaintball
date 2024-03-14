@@ -17,6 +17,7 @@ import net.neoforged.neoforge.event.server.ServerStartedEvent;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.multicoder.mcpaintball.common.MCPaintballSounds;
+import org.multicoder.mcpaintball.common.commands.MatchCommands;
 import org.multicoder.mcpaintball.common.commands.TeamCommands;
 import org.multicoder.mcpaintball.common.data.MCPaintballWorldData;
 import org.multicoder.mcpaintball.common.entity.*;
@@ -108,6 +109,7 @@ public class MCPaintball
         {
             CommandDispatcher<CommandSourceStack> Dispatcher = event.getDispatcher();
             TeamCommands.registerCommands(Dispatcher);
+            MatchCommands.registerCommands(Dispatcher);
         }
     }
 }
